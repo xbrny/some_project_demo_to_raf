@@ -1,0 +1,6 @@
+{
+  "appTitle": "some_project_demo_to_raf",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
